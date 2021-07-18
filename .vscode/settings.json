@@ -1,0 +1,22 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "node_modules/**": true,
+        "build/": true,
+        "reports": true,
+        ".scannerwork": true,
+        ".gitattributes": true,
+        ".cache": true,
+        "dist/": true
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "workbench.editor.enablePreview": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

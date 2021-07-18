@@ -1,0 +1,10 @@
+/.scannerwork/
+/build/
+/dist/
+/node_modules/
+.env
+npm-debug.log
+npm-debug.log*
+**/*.orig
+messages.js
+/.cache/
