@@ -9,8 +9,8 @@
         "prebuild": "rmdir dist /s /q",
         "build": "parcel build ./src/index.html --public-url ./"
     },
-    "author": "Absorb Software Inc.",
-    "license": "UNLICENSED",
+    "author": "Colin Kirk",
+    "license": "MIT",
     "devDependencies": {
         "@types/react": "^17.0.14",
         "@types/react-dom": "^17.0.9",
